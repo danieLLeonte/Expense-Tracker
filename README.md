@@ -2,9 +2,8 @@
 
 ## General Info
 **Expense Tracker App, built with React and Redux.<br/>
-The app allows you to set budgets for various categories, and track transactions in those categories. It then sums your spending in each category to calculate the amount of money that remains to be spent.
-
-<a href="" target="_blank" >👉</a>** 
+The app allows you to set budgets for various categories, and track transactions in those categories. It then sums your spending in each category to calculate the amount of money that remains to be spent.** 
+<a href="" target="_blank" >👉🎯👈</a>
 
 ![](./screencast/overview.png)
 ***

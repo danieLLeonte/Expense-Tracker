@@ -1,7 +1,7 @@
 # Expense Tracker💸
 
 ## General Info
-**Expense Tracker App, built with React and Redux.<br/>
+**Expense Tracker app, built with React and Redux.<br/>
 The app allows you to set budgets for various categories, and track transactions in those categories. It then sums your spending in each category to calculate the amount of money that remains to be spent.** 
 <a href="https://expense-tracker-37.netlify.app/" target="_blank" >👉🎯👈</a>
 
